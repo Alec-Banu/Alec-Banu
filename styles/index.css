@@ -1,0 +1,8 @@
+nav {
+    display: flex;
+    gap: 2rem;
+    padding: 1.5rem 2rem;
+    justify-content: flex-end;
+    position: sticky;
+    top: 0;
+}
