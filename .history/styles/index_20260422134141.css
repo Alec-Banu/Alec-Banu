@@ -1,7 +1,3 @@
-a{
-    text-decoration: none;
-}
-
 nav {
   display: flex;
   gap: 2rem;
@@ -26,52 +22,8 @@ nav {
     color: #ccd6f6;
   }
   h2 {
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: #8892b0;
-  }
-  p {
-    color: #8892b0;
-    margin: 1rem 0;
-  }
-}
-
-section {
-  padding: 4rem 2rem;
-
-  h2 {
-    font-size: 1.5rem;
-    margin-bottom: 2rem;
-    color: #ccd6f6;
-  }
-}
-
-#skills {
-  ul {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-  }
-  li {
-    background-color: #112240;
-    color: #64ffda;
-    padding: 0.5rem 1rem;
-    border-radius: 0.25rem;
-    font-size: 0.9rem;
-  }
-}
-
-#projects {
-}
-
-#contact {
-  a {
-    border: 0.1rem solid #64ffda;
-    color: #64ffda;
-    padding: 1rem 2rem;
-    border-radius: 0.25rem;
-  }
-  a:hover {
-    background-color: #64ffda1a;
   }
 }
 

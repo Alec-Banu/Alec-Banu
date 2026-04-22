@@ -1,7 +1,3 @@
-a{
-    text-decoration: none;
-}
-
 nav {
   display: flex;
   gap: 2rem;
@@ -57,21 +53,6 @@ section {
     padding: 0.5rem 1rem;
     border-radius: 0.25rem;
     font-size: 0.9rem;
-  }
-}
-
-#projects {
-}
-
-#contact {
-  a {
-    border: 0.1rem solid #64ffda;
-    color: #64ffda;
-    padding: 1rem 2rem;
-    border-radius: 0.25rem;
-  }
-  a:hover {
-    background-color: #64ffda1a;
   }
 }
 
