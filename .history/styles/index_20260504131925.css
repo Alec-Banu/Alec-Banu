@@ -57,12 +57,11 @@ section {
     gap: 1rem;
   }
   li {
-    background-color: #64ffda1a;
-    color: #64ffda;
+    background-color: #112240;
+    color: #44bbe7;
     padding: 0.5rem 1rem;
-    border-radius: 1rem;
+    border-radius: 0.25rem;
     font-size: 0.9rem;
-    list-style: none;
   }
 }
 
@@ -95,7 +94,7 @@ section {
     border: 0.1rem solid #64ffda;
     color: #64ffda;
     padding: 1rem 2rem;
-    border-radius: 1rem;
+    border-radius: 0.25rem;
   }
   a:hover {
     background-color: #64ffda1a;
