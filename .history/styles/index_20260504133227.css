@@ -1,25 +1,34 @@
-/* GENERAL ************************/
+body {
+  background-color: #0a192f;
+}
 
+h1 {
+    font-size: 2rem;
+    color: #ccd6f6;
+  }
+  h2 {
+    font-size: 1.5rem;
+    color: #8892b0;
+  }
+  p {
+    color: #8892b0;
+    margin: 1rem 0;
+  }
 
-
-/* NAVIGATION ****************************/
+a {
+  text-decoration: none;
+  color: #ccd6f6;
+}
 
 nav {
   display: flex;
   gap: 2rem;
   padding: 1.5rem 2rem;
   justify-content: flex-end;
-
-  background-color: #0a192f;
-}
-
-header {
   position: sticky;
   top: 0;
-  right: 0;
+  background-color: #0a192f;
 }
-
-/* CONTENT ****************************/
 
 #hero {
   min-height: 100vh;
@@ -92,7 +101,7 @@ section {
     background-color: #64ffda1a;
     text-decoration: none;
   }
-  p {
+  p{
     margin-bottom: 2.5rem;
   }
 }
