@@ -19,7 +19,7 @@ a {
   color: #ccd6f6;
 }
 a:hover,
-a h3:hover {
+h3:hover {
   color: #64ffda;
   /* border: 0.1rem solid #64ffda;
   border-radius: 1rem;
