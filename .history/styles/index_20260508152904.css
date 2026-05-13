@@ -60,7 +60,7 @@ section {
     gap: 1.5rem;
     list-style: none;
   }
-  .project-card {
+  .project-card{
     background-color: #112240;
     padding: 2rem;
     border-radius: 0.5rem;
@@ -71,14 +71,11 @@ section {
     h3 {
       color: #ccd6f6;
     }
-    h3:hover {
-      color: #64ffda;
-    }
     p {
       color: #8892b0;
     }
   }
-  .project-card:hover {
+  .project-card:hover{
     border: 0.1rem solid #64ffda;
     background-color: #64ffda1a;
   }
